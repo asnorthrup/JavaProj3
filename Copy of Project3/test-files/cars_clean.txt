@@ -1,0 +1,14 @@
+R 3 R-1 Doe, John 
+e 3 E-1 Emerson, Jane
+R 3 R-2 Henderson, William 
+R 3 R-3     Rhyne, Lauren
+r 3 R-4     Nelson, Richard
+R 3 R-5 Yarbrough, Stephanie
+R 3 R-6 Wall, Susan
+R 3 R-7  Masters, Burt
+R 3 R-8 Lamb, Bill
+R 3 R-9 Nicholson, Henry
+e 2 E-2 Littleton, Christine 
+e 2 E-3   Peterson, Keith
+e 2 E-4 Fidler, Paul
+R 0 R-10 Smith, Amos

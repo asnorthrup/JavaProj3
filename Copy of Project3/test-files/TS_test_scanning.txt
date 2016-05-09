@@ -1,0 +1,6 @@
+R 2 MA1 Doe, John
+5 bad line
+e 3 NC1 Doe, Elec
+r 2 FL2 Dollar, Hank
+x anotherbadline
+E 1 VA1 Adams, Bob
